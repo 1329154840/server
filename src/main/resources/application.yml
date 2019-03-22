@@ -10,4 +10,6 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
   instance:
-    hostname: 127.0.0.1
+    hostname: localhost
+
+
