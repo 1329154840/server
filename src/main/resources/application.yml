@@ -13,5 +13,6 @@ eureka:
     hostname: localhost
   server:
     enable-self-preservation: false
+    eviction-interval-timer-in-ms: 4000
 
 
